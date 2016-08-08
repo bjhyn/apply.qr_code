@@ -1,1 +1,1 @@
-# apply.qr_code.github.com
+# apply.qr_code.github.io
